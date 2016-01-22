@@ -1,0 +1,10 @@
+name
+HPvalue
+Speedvalue
+Attackvalue
+Evadevalue
+level
+abilites
+unlock levels
+skill
+damage type

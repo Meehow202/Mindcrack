@@ -1,0 +1,56 @@
+aureylian
+4 1 4 0 0 0 0 0 
+Pink Enchant
+RUDE!
+Compliment
+19 4 0.2 30
+pink wand
+omgchad
+4 1 1 1 0 0 0 0 
+Newcomer
+Waffles Claw
+Collab
+15 8 0.1 22
+basic sword
+docm
+1 4 1 0 0 0 0 0 
+Doc Block
+Alright Guys
+None
+19 22 0.3 30
+basic gun
+millbee
+1 1 1 0 0 0 0 0 
+Rainbow Explosion
+Orange Wool
+Chocolate Knees
+15 16 0.9 22
+basic wand
+pyro
+4 1 1 1 0 0 0 0 
+Imperssionate
+Tackle
+Game Theory
+17 8 0.9 26
+basic gun
+guude
+1 1 1 0 0 0 0 0 
+Contagious Laugh
+Spider Eyes
+Boulderfist
+14 1 0.7 20
+sythe
+etho
+1 1 1 1 0 0 0 0 
+Get Snacks
+Redstone
+None
+25 0 1.0 50
+basic sword
+sethbling
+1 1 1 1 1 0 0 0 
+Sockem
+Health Pack
+None
+30 0 1 79
+basic gun

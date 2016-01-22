@@ -1,0 +1,6 @@
+none
+none D-pauseu-True-16
+None-tableleft-True D-tablemid-True-17 None-tablemid-True None-tablemid-True None-tablemid-True None-tablemid-True None-tableright-True
+Walk-none-False-20 none none none none none None-chairback-True
+none none None-chairfront-True
+None-table-True none None-table-True none None-table-True none None-table-True D-pausel-True-18

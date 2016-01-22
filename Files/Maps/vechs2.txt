@@ -1,0 +1,7 @@
+ssd bl bl bl bl bl bl bl ssd
+sb sb sc sb sb sb sb sc sc
+sb st st st st st st st sc
+sb st gl st st st gl st sb
+sb st st st st st st st sb
+sb sb sb sb sb sc sb sb sb
+bl bl bl bl nn

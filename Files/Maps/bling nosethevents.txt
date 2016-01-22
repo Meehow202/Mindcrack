@@ -1,0 +1,9 @@
+bl bl none-chest none-chest none-chest none-chest none-chest
+bl bl fl fl fl fl fl bl
+none-chest none-chest fl fl fl None-tableleft-True none-tableright-True none-chest none-chest
+bl fl fl fl fl fl fl fl
+Walk-none-False-133 bc fl fl fl fl fl fl
+fl fl fl fl fl fl fl fl
+bl bl fl fl fl fl fl bl
+bl bl None-chairback-True fl fl fl None-chairback-True bl
+bl bl bl bl Walk-arrowd-False-132 bl bl bl

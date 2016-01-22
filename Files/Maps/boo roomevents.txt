@@ -1,0 +1,5 @@
+gd gd gd gd gd gd
+none-topbed-True none-table-True s0 s0 s0 s0
+none-bottombed-False s0 s0 s0 s0 s0
+s0 s0 s0 s0 s0 s0
+bl bl bl bl bl Walk-arrowd-False-75

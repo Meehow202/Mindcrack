@@ -1,0 +1,11 @@
+sethbling
+6
+4.5
+4
+8
+30
+Sockem Health#Pack Cloud#Glitch Zombie#Raid Redstone#Challenge Explosive#Mine Detnator Lightning#Missile
+1 1 10 20 30 40 40 50
+Encourage
+Death Swap
+energy

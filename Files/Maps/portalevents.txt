@@ -1,0 +1,16 @@
+bl bl bl ob ob ob ob
+bl bl bl ob xa xb ob
+bl bl bl ob xc xd ob
+bl bl bl ob xe xf ob
+bl bl bl ob ob ob ob
+bl bl nr nr nr nr nr
+bl bl bl nr nr nr bl nr
+bl bl bl nr nr nr nr nr
+bl bl bl nr nr nr nr
+bl bl bl nr nr nr nr nr
+bl bl bl nr nr nr nr
+bl bl bl bl nr nr nr
+bl bl bl nr nr nr nr
+bl nr bl nr nr nr nr
+bl nr nr nr nr nr nr
+bl bl bl bl nr nr bl

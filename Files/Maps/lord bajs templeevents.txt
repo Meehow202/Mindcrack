@@ -1,0 +1,13 @@
+none Walk-none-False-25 Walk-none-False-25 Walk-arrowu-False-26 Walk-arrowu-False-26 Walk-arrowu-False-26 Walk-none-False-25 Walk-none-False-25
+none Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-arrowr-False-28
+Walk-arrowl-False-27 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 D-sign-True-24 Walk-none-False-25 Walk-none-False-25 Walk-arrowr-False-28
+Walk-arrowl-False-27 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-arrowr-False-28
+none Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25
+none Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25
+none Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25
+none Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25
+none Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25
+none Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25
+none Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25
+none none D-adback-True-22 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25 Walk-none-False-25
+None-rail-True None-rail-True None-rail-True None-rail-True None-rail-True None-rail-True None-rail-True None-rail-True

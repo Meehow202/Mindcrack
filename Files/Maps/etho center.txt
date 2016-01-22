@@ -1,0 +1,13 @@
+bl bl bl bl bl bl bl bl bl bl bl bl bl bl bl bl bl
+bl bl bl bl bl bl bl bl bl bl bl bl bl bl bl bl bl
+sw sw sw sw bl bl bl bl bl bl bl bl bl bl bl bl
+sa sa sa sa bl bl bl bl bl bl bl sa sa sa sa
+sa qr qr sa bl bl bl bl bl bl bl sa qr qr sa
+sa qr qr sa bl bl bl bl bl bl bl sa qr qr sa
+sa qr qr sa bl bl bl bl bl bl bl sa qr qr sa
+sa qr qr sa bl sa sa sa sa sa bl sa qr qr sa
+sa qr qr sa sa sa qr qr qr sa sa sa qr qr sa
+sa qr qr qr qr qr qr qr qr qr qr qr qr qr sa
+sa sa sa sa sa sa qr qr qr sa sa sa sa sa sa 
+bl bl bl bl bl sa sa sa sa sa
+bl bl bl bl bl bl bl nn

@@ -1,0 +1,7 @@
+bl bl bl bl bl pw pw pw pw pw bl bl bl bl bl
+bl pw  Walk-none-False-70 D-none-False-71 pt pt pt D-none-True-84 pt pt pw D-none-False-72 Walk-none-False-73 pw bl
+bl pt pt pt pt pt pt pt pt pt pt pt pt pt bl
+Walk-arrowl-False-68 pt pt pt pt pt pt pt pt pt pt pt pt D-sign-True-152 Walk-arrowr-False-69
+bl pt pt pt pt pt pt pt pt pt pt pt pt pt bl
+bl bl bl bl bl bl pt pt pt
+bl bl bl bl bl bl bl Walk-arrowd-False-67

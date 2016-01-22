@@ -1,0 +1,6 @@
+pw pw pw pw pw pw
+s0 s0 s0 s0 none-table-True none-topbed-True
+s0 s0 s0 s0 s0 none-bottombed-False
+s0 s0 s0 s0 s0 s0
+s0 s0 s0 s0 s0 s0
+Walk-arrowd-False-74

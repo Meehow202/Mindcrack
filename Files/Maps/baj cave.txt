@@ -1,0 +1,13 @@
+ru ru ru ru ru ru ru ru ru ru ru ru ru
+rw rw rw rw rw rw rw rw rw rw rw rw rw
+ro bl bl bl bl bl bl bl bl bl bl bl bl
+ro bl bl bl bl bl bl bl ro ro ro bl bl
+ro bl bl bl bl bl bl bl ro ro ro bl bl
+ro bl bl bl bl bl bl bl bl ro bl bl bl
+ro bl bl bl bl bl bl bl bl ro bl bl bl
+ro ro ro ro bl bl bl bl bl ro bl bl bl
+bl bl bl ro bl bl bl ro ro ro bl bl bl
+bl bl bl ro ro ro ro ro bl bl bl bl bl
+bl bl bl bl ro bl bl bl bl bl bl bl bl
+bl bl bl bl ro bl bl bl bl bl bl bl bl
+bl bl bl bl nn

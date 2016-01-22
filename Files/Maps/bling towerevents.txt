@@ -1,0 +1,16 @@
+none none none none none-blinga-True none-blingc-True none-blingi-True none-blingl-True none-blingq-True  
+none none none none none-blinga-True none-blingd-True none-blingi-True none-blingm-True none-blingq-True 
+none none none none none-blinga-True none-blinge-True none-blingi-True none-blingn-True none-blingq-True 
+none none none none none-blinga-True none-blingf-True none-blingi-True none-blingo-True none-blingq-True 
+none-fenceh-True none-fenceh-True none-fenceh-True none-fenceh-True none-blinga-True none-blingg-True none-blingj-True none-blingp-True none-blingq-True none-fenceh-True none-fenceh-True none-fenceh-True none-fenceh-True
+none none none none none-blingb-False none-blingh-True Walk-blingk-False-131 none-blingp-True none-blingr-False
+none
+none-flower1-True none none none none none none none none none none none none-flower4-True
+none-flower3-True none none none none none none none none none none none none-flower4-True
+none-flower2-True none none none none none none none none none none none none-flower2-True
+none-flower1-True none none none none none none none none none none none none-flower1-True
+none-flower4-True none none none none none none none none none none none none-flower3-True
+none
+none none none none none none D-adback-True-22
+none-rail-True none-rail-True none-rail-True none-rail-Truenone-rail-True none-rail-True none-rail-True none-rail-Truenone-rail-True none-rail-True none-rail-True none-rail-Truenone-rail-True none-rail-True none-rail-True none-rail-Truenone-rail-True none-rail-True none-rail-True none-rail-True
+ 

@@ -1,0 +1,6 @@
+none
+none
+None-bars-True None-bars-True None-bars-True None-bars-True None-bars-True None-bars-True  None-celldoor-True None-bars-True None-bars-True
+none none none none none none none none Walk-none-False-7
+none
+None-bars-True None-bars-True None-bars-True None-bars-True None-bars-True None-bars-True  D-brokendoor-True-6 None-bars-True None-bars-True

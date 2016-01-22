@@ -1,0 +1,11 @@
+vechs
+4
+3.5
+2
+5
+45
+White#Wool Lime#Wool Pink#Wool Grey#Wool Brown#Wool Red#Wool Black#Wool Victory#Monument 
+1 1 6 16 24 33 40 50
+Revive
+Egg Attack
+magical

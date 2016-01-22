@@ -1,0 +1,9 @@
+bl bl bl bl bl bl bl
+bl bl fl fl fl fl fl bl
+bl bl fl fl fl fl fl bl
+fl fl fl cnn cnn cnn fl fl fl
+bc fl fl cnn cnn cnn fl fl fl
+fl fl fl cnn cnn cnn fl fl fl
+bl bl fl cnn cnn cnn fl fl fl
+bl bl fl fl fl fl fl bl
+bl bl bl bl nn bl bl bl

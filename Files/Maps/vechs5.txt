@@ -1,0 +1,6 @@
+bl ssd
+sb sb sb
+sb st sb
+sb st sb
+sb sb sb
+bl nn

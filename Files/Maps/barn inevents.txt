@@ -1,0 +1,8 @@
+none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True
+pl none-chickent none-chickent pl none-pig none-chicken pl pl pl pl pl none-pig pl
+none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True
+D-chest-True-80 pl pl pl pl pl pl pl pl pl pl pl D-chest-True-79
+none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True pl pl pl none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True
+pl D-sheep-True-81 pl pl pl pl pl pl pl pl pl D-cow-True-82 pl
+none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True pl pl pl none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True
+bl bl bl bl bl Walk-arrowd-False-78 Walk-arrowd-False-78 Walk-arrowd-False-78 bl bl bl bl bl

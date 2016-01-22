@@ -1,0 +1,6 @@
+bl ssd
+sb D-vechsfront-True-99 sb
+sb st sb
+sb none-dinnerbone-True sb
+sb sb sb
+bl Walk-arrowd-False-97

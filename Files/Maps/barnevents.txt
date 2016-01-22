@@ -1,0 +1,16 @@
+bl bl bl bl None-barnroofleft-True None-barnroof-True None-barnroof-True None-barnroof-True None-barnroof-True None-barnroof-True None-barnroofright-True bl bl bl bl
+bl bl bl bl None-barnleft-True None-barn-True None-barn-True None-barn-True None-barn-True None-barn-True None-barnright-True bl bl bl bl
+bl bl bl bl None-barnleft-True None-barn-True Walk-none-False-77 Walk-none-False-77 Walk-none-False-77 None-barn-True None-barnright-True bl bl bl bl
+gr gr gr gr gr gr gr gr gr gr gr gr gr gr gr
+none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True gr gr gr none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True
+none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True gr gr gr none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True
+none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True gr gr gr none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True
+none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True gr gr gr none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True
+none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True gr gr gr none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True
+none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True gr gr gr none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True
+none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True gr gr gr none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True
+none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True gr gr gr none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True none-carrot-True
+none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True gr gr gr none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True
+none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True gr gr gr none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True none-smallwhea-True
+none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True D-adback-True-22 gr gr none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True none-wfence-True
+none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True none-rail-True
